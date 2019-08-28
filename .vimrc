@@ -1,0 +1,26 @@
+"basic settings
+
+"display settings
+set number
+set cursorline
+set noerrorbells
+set showmatch
+set list
+set softtabstop=4
+set tabstop=4
+set guioptions+=a
+set smartindent
+set noswapfile
+set nobackup
+set title
+set fenc=utf-8
+set showcmd
+syntax on
+"search settings
+set ignorecase
+set smartcase
+set wrapscan
+set incsearch
+set hlsearch
+"color settings
+colorscheme molokai
